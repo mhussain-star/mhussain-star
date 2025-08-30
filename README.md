@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Syed Mujtaba Hussain
 
-🚀 **Aspiring Data Scientist \| AI & ML Enthusiast \| Automation
+🚀 **Aspiring Data Scientist |\ Student at Gitam University \| AI & ML Enthusiast \| Automation
 Builder**
 
 I am passionate about turning raw data into meaningful insights and
@@ -78,7 +78,7 @@ Browser Automation for dynamic web & API tasks.*
 -   🌐
     [LinkedIn](https://www.linkedin.com/in/syed-mujtaba-hussain-23a523337/)\
 -   📊 [Kaggle](https://www.kaggle.com/syed9796)\
--   📧 Email: mujtabahussain9796@gmail.com
+-   📧 Email: mhussain@student.gitam.edu
 
 ------------------------------------------------------------------------
 
